@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">WeatherApp2.0</string>
+    <string name="Degrees">%1$s °</string>
+</resources>
